@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author boume
+ *
+ */
+module MyFirstProgram {
+}
